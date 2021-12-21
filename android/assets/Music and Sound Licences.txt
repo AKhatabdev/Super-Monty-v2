@@ -1,0 +1,8 @@
+Music and Sound Effects are from an Open Source platform:
+https: www.epidemicsound.com/
+All other sounds and music have been created, edited, converted to .wav with Adobe Audition.
+
+Non-commercial Licence Sounds:
+http://noproblo.dayjo.org/ZeldaSounds/
+@lowHeart_sound.wav
+@gameover_sound.wav
